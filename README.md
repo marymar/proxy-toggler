@@ -25,8 +25,8 @@ I also setup a small configuration in the `.bash_profile` to run the script from
 
 ##Hint: Configure your default proxy manually
 
-If you try switching the proxy settings on and no proxy can be found in the network settings, than it would use 
-the default proxy. The default proxy you then have to configure.
+If you try switching the proxy settings `on` and no proxy can be found in the network settings, than it would use 
+the default proxy. The default proxy you need to configure first.
 
 Please replace `[YOUR_DEFAULT_PROXY]` in the proxy script with your preferences.
 
